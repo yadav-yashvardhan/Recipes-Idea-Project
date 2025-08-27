@@ -1,65 +1,62 @@
-🍳 RecipeFinder
+# 🍳 RecipeFinder
 
-RecipeFinder is a smart recipe suggestion app that helps you cook with what you already have. Simply enter the ingredients you own, and the app automatically shows you dishes, their required ingredients, step-by-step instructions, and even cooking videos.
+RecipeFinder is a smart recipe suggestion web app that helps you cook with what you already have.  
+Simply enter the ingredients you own, and the app automatically shows you **dishes**, their **ingredients**, **step-by-step instructions**, and even **cooking videos**.  
 
-🚀 Features
+👉 [Live Demo on Render](https://recipes-idea-project-0oxy.onrender.com)  
+👉 [GitHub Repository](https://github.com/yadav-yashvardhan/Recipes-Idea-Project)
 
-🔍 Ingredient-based recipe search – Get dishes from the items you already have.
+---
 
-🍽️ Complete recipe details – Includes required ingredients + step-by-step instructions.
+## 🚀 Features
+- 🔍 **Ingredient-based recipe search** – Get dishes based on what you have.  
+- 🍽️ **Complete recipe details** – Includes all ingredients + step-by-step instructions.  
+- 🎥 **Video tutorials** – Watch how the recipe is made.  
+- 🥞 **Meal-type filters** – Browse recipes by:  
+  - Breakfast  
+  - Lunch  
+  - Snacks  
+  - Dinner  
+  - Dessert  
+- 📱 **Responsive UI** – Built with React.js + Tailwind CSS.  
+- 🌐 **API powered** – Fetches recipes and ingredients dynamically.  
+- ⚡ **Deployed on Render**.  
 
-🎥 Video tutorials – Watch how the recipe is made.
+---
 
-🥞 Meal-type filters – Filter recipes by:
+## 🖼️ Screenshots
 
-Breakfast
+### Homepage
+![Homepage](screenshots/homepage.png)
 
-Lunch
+### About Section
+![About](screenshots/about.png)
 
-Snacks
+### Contact Section
+![Contact](screenshots/contact.png)
 
-Dinner
+### Recipe Finder Section
+![RecipeFinder](screenshots/recipefinder.png)
 
-Dessert
+### Recipe Instructions
+![Instructions](screenshots/instructions.png)
 
-📱 Responsive UI – Built with React.js + Tailwind CSS for a clean experience.
+---
 
-🌐 API powered – Recipes and ingredients fetched via external API.
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend/API:** External Recipe & Ingredient API  
+- **Deployment:** Render  
 
-⚡ Live demo deployed on Render.
+---
 
-🖼️ Screenshots
+## 📂 Project Setup
 
-Homepage
+Clone the repository and run locally:
 
-About Section
-
-Contact Section
-
-Recipe Finder Section
-
-Recipe Instructions
-
-🔗 Demo
-
-👉 Live Demo on Render https://recipes-idea-project-0oxy.onrender.com
-
-🛠️ Tech Stack
-
-Frontend: React.js, Tailwind CSS
-
-Backend/API: External recipe & ingredient API
-
-Deployment: Render
-
-📂 Project Setup
-
-Clone the repository and install dependencies:
-
-git clone (https://github.com/yadav-yashvardhan/Recipes-Idea-Project)
-
-cd RecipeFinder
-
+```bash
+git clone https://github.com/yadav-yashvardhan/Recipes-Idea-Project.git
+cd Recipes-Idea-Project/Frontend
 npm install
-
 npm run dev
+
