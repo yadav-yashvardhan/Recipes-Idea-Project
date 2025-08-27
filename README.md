@@ -27,19 +27,19 @@ Simply enter the ingredients you own, and the app automatically shows you **dish
 ## 🖼️ Screenshots
 
 ### Homepage
-![Homepage](screenshots/homepage.png)
-
-### About Section
-![About](screenshots/about.png)
-
-### Contact Section
-![Contact](screenshots/contact.png)
+![Homepage](assets/Homepage.png)
 
 ### Recipe Finder Section
-![RecipeFinder](screenshots/recipefinder.png)
+![RecipeFinder](assets/RecipeFinder.png)
 
 ### Recipe Instructions
-![Instructions](screenshots/instructions.png)
+![Instructions](assets/RecipeInstruction.png)
+
+### About Section
+![About](assets/About.png)
+
+### Contact Section
+![Contact](assets/Contact.png)
 
 ---
 
