@@ -1,12 +1,64 @@
-# React + Vite
+🍳 RecipeFinder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+RecipeFinder is a smart recipe suggestion app that helps you cook with what you already have. Simply enter the ingredients you own, and the app automatically shows you dishes, their required ingredients, step-by-step instructions, and even cooking videos.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔍 Ingredient-based recipe search – Get dishes from the items you already have.
 
-## Expanding the ESLint configuration
+🍽️ Complete recipe details – Includes required ingredients + step-by-step instructions.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎥 Video tutorials – Watch how the recipe is made.
+
+🥞 Meal-type filters – Filter recipes by:
+
+Breakfast
+
+Lunch
+
+Snacks
+
+Dinner
+
+Dessert
+
+📱 Responsive UI – Built with React.js + Tailwind CSS for a clean experience.
+
+🌐 API powered – Recipes and ingredients fetched via external API.
+
+⚡ Live demo deployed on Render.
+
+🖼️ Screenshots
+Homepage
+
+About Section
+
+Contact Section
+
+Recipe Finder Section
+
+Recipe Instructions
+
+🔗 Demo
+
+👉 Live Demo on Render https://recipes-idea-project-0oxy.onrender.com
+
+🛠️ Tech Stack
+
+Frontend: React.js, Tailwind CSS
+
+Backend/API: External recipe & ingredient API
+
+Deployment: Render
+
+📂 Project Setup
+
+Clone the repository and install dependencies:
+
+git clone (https://github.com/yadav-yashvardhan/Recipes-Idea-Project)
+
+cd RecipeFinder
+
+npm install
+
+npm run dev
