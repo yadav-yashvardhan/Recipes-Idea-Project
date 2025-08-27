@@ -30,16 +30,16 @@ Simply enter the ingredients you own, and the app automatically shows you **dish
 ![Homepage](src/assets/Homepage.png)
 
 ### Recipe Finder Section
-![RecipeFinder](assets/RecipeFinder.png)
+![RecipeFinder](src/assets/RecipeFinder.png)
 
 ### Recipe Instructions
-![Instructions](assets/RecipeInstruction.png)
+![Instructions](src/assets/RecipeInstruction.png)
 
 ### About Section
-![About](assets/About.png)
+![About](src/assets/About.png)
 
 ### Contact Section
-![Contact](assets/Contact.png)
+![Contact](src/assets/Contact.png)
 
 ---
 
