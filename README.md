@@ -33,7 +33,7 @@ Simply enter the ingredients you own, and the app automatically shows you **dish
 ![RecipeFinder](src/assets/RecipeFinder.png)
 
 ### Recipe Instructions
-![Instructions](src/assets/RecipeInstruction.png)
+![Instructions](src/assets/RecipeInstructions.png)
 
 ### About Section
 ![About](src/assets/About.png)
